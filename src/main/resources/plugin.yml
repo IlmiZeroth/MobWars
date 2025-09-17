@@ -1,0 +1,13 @@
+name: MobWars
+version: '1.0-SNAPSHOT'
+main: org.giperfire.mobWars.MobWars
+api-version: '1.21'
+author: IlmiZeroth
+depend: [BetterModel]
+commands:
+  mobwars:
+    description: Main plugin command
+    permission: mobwars.use
+  mwa:
+    description: Main plugin command
+    permission: mobwars.admin
