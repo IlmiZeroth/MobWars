@@ -1,3 +1,6 @@
+## 🌐 Language / Язык
+[🇬🇧 English](README_en.md) | [🇷🇺 Русский](README_ru.md)
+
 # MobWars
 <img width="700" height="420" alt="image" src="https://github.com/user-attachments/assets/baf6a798-41e7-4a1f-9e0d-6d363ac04095" />
 
